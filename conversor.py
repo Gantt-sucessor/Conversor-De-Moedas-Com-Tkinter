@@ -26,7 +26,9 @@ def mostrar_selecao():
             ("Dólar", "Euro"): 0.9698,
 
             ("Libra Esterlina", "Real"): 7.68258 ,
-            ("Libra Esterlina", "Euro"): 1.20524,("Libra Esterlina", "Iene"): 196.81,("Libra Esterlina", "Dolar"): 1.24220,
+            ("Libra Esterlina", "Euro"): 1.20524,
+            ("Libra Esterlina", "Iene"): 196.81,
+            ("Libra Esterlina", "Dolar"): 1.24220,
 
             ("Iene", "Real"): 0.03933,
             ("Iene", "Dolar"): 0.006357,
